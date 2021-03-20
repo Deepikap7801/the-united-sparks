@@ -1,1 +1,2 @@
-subtraction function
+addition function added
+subtraction function added
