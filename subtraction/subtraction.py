@@ -1,3 +1,4 @@
+subtraction function
 def doSubtraction:
     a=5
     b=10
