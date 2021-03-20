@@ -1,3 +1,4 @@
+multiplication function
 def doMultiplication:
     a=10
     b=2
