@@ -1,2 +1,3 @@
 addition function added
 subtraction function added
+multiplication function added
